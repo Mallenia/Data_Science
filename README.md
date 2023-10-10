@@ -1,2 +1,3 @@
 # Data_Science
-Data Science projects.
+Data Science Projects. 
+From Data wrangling to the communication of the information derived from Data.
