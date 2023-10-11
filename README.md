@@ -1,1 +1,1 @@
-IBM Data Science Certificate: Data Visualisation excercises and final project.
+Data Visualisation excercises and final project.
