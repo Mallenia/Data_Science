@@ -1,1 +1,1 @@
-Data Visualisation excercises and final project.
+Visualisation excercises and final project.
